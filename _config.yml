@@ -106,7 +106,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "fun duy."
+  bio              : "fun guy."
   location         : "Seoul, Republic of Korea"
   links:
     - label: "Made Mistakes"
