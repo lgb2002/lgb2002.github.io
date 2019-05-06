@@ -1,17 +1,26 @@
 ---
-title: "Welcome to Cyber Worldll!"
+title: "경제 공부 요약(1)"
 date: 2019-05-06 23:04:28 -0400
-categories: lgb2002 update
+categories: economics
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+미국 증시는 한국 증시에 반영된다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+장 하락은 단타투자자들에게는 기회로 작용할 수 있다.
 
-Jekyll also offers powerful support for code snippets:
+외국인의 장초반 움직임을 파악해야 한다.
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+코스피는 미국vs중국 등 고래 싸움에 등 터진다.
+
+이럴 때는 투자를 쉬어도 좋다.
+
+폭락장에서는 시초가매매 기법이 좋다.
+
+외국인의 약매도 -> 신규 진입 x
+
+외국인이 진입할 때 같이 진입해야 한다.
+
+폭락장에서는 예상체결량으로 매매를 해야 한다.
+
+반등해서 마무리하면 약매수, 끝내 반등하지 못하면 휴식
+
